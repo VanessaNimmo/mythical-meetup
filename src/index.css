@@ -6,9 +6,32 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url("http://getwallpapers.com/wallpaper/full/1/7/b/965911-best-mythical-background-1920x1200-for-windows-7.jpg") no-repeat fixed center; 
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+h1, h2, h3 {
+  color: white;
+}
+
+h1 {
+  font-size: 7em;
+  font-family: ‘Charmonman’, cursive;
+}
+
+h2 {
+  font-family: ‘Charmonman’, cursive;
+  font-size: 3em;
+}
+
+h3 {
+  font-family: ‘Noto Serif TC’, serif;
+  font-size: 2em;
+}
+button {
+
 }
